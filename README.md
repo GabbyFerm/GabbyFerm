@@ -7,7 +7,7 @@
 <p align="left">
 Hi there! I'm Gabriella, but most people call me Gabby. I'm from Gothenburg, Sweden, and currently studying to become a System Developer with a .NET specialization at NBI-Handelsakademin. With a background in graphic design, I bring a creative eye and passion for detail to my work.
   
-- 🌱 Currently learning about try/catch and error handling.
+- 🌱 Currently learning about databases, sql and how to connect and use the data in a console application.
 - 🎓 Actively looking for an internship (LIA) for my first placement, starting September 1, 2025 – November 7, 2025.
 - 🎨 Also an experienced graphic designer with a love for visual creativity.
 - 🌲 In my spare time, I enjoy the outdoors.
