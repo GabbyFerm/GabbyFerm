@@ -40,4 +40,4 @@ Hi there! I'm Gabriella, but most people call me Gabby. I'm from Gothenburg, Swe
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabbyFerm&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabbyFerm&layout=compact&theme=dark) ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GabbyFerm&theme=github-dark)
