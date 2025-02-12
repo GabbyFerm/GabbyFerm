@@ -40,7 +40,4 @@ Hi there! I'm Gabriella, but most people call me Gabby. I'm from Gothenburg, Swe
 
 ---
 
-### 🔥 My Stats
-<div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabbyFerm&theme=dark" />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabbyFerm&layout=compact&theme=dark)
