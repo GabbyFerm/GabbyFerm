@@ -5,12 +5,19 @@
 
 ### 👩‍💻 About Me
 <p align="left">
-Hi there! I'm Gabriella, but most people call me Gabby. I'm from Gothenburg, Sweden, and currently studying to become a System Developer with a .NET specialization at NBI-Handelsakademin. With a background in graphic design, I bring a creative eye and passion for detail to my work.
-  
-- 🌱 We are currently diving deeper into Object-Oriented Analysis, focusing on understanding requirements—both functional and non-functional—and their importance. We are learning techniques for defining, prioritizing, and documenting requirements, laying the foundation for system development. This includes User Stories and Use Cases.
-- 🎓 Actively looking for an internship (LIA) for my first placement, starting September 1, 2025 – November 7, 2025.
-- 🎨 Also an experienced graphic designer with a love for visual creativity.
-- 🌲 In my spare time, I enjoy the outdoors.
+Hi! I’m Gabriella, but you can call me Gabby. I’m a .NET-focused system development student based in Gothenburg, Sweden, with a previous career in graphic design – a combo that lets me approach coding with creativity, structure, and an eye for detail.
+
+- 💻 I’m currently building backend solutions using C#, .NET, ASP.NET Core Web API, and working with SQL and Entity Framework Core.
+
+- 🎯 We're just starting to explore frontend with React and TypeScript, and I’m excited to deepen my skills there – especially since I love when logic meets visual design.
+
+- 🧠 My learning is rooted in Clean Code, Object-Oriented Programming, and understanding both functional and non-functional requirements through user stories and use cases.
+
+- 🚀 I'm actively looking for an internship (LIA) from Sept 1 – Nov 7, 2025, where I can grow, contribute, and collaborate.
+
+-  🎨 Still a designer at heart – I enjoy blending form and function, and I often bring UX thinking into my development process.
+
+- 🌿 Outside of tech? You'll find me hiking, painting, crocheting, or hanging with my family and cats (or all of the above).
 
 </p>
 
