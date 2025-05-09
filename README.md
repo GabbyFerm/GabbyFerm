@@ -1,5 +1,5 @@
 <h1 align="center">Gabriella Frank Ferm</h1>
-<h3 align="center">Aspiring System Developer & Creative Graphics Designer</h3>
+<h3 align="center">.NET Fullstack in the Making · Designer at Heart · Always Learning</h3>
 
 ---
 
