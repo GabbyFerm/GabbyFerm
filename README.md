@@ -5,7 +5,7 @@
 
 ### 👩‍💻 About Me
 <p align="left">
-Hi! I’m Gabriella, but you can call me Gabby. I’m a .NET-focused system development student based in Gothenburg, Sweden, with a previous career in graphic design – a combo that lets me approach coding with creativity, structure, and an eye for detail.
+Hi! I'm Gabriella, but you can call me Gabby. I'm a .NET-focused system development student based in Gothenburg, Sweden, with a previous career in graphic design – a combo that lets me approach coding with creativity, structure, and an eye for detail.
 
 - 💻 I’m currently building backend solutions using C#, .NET, ASP.NET Core Web API, and working with SQL and Entity Framework Core.
 
@@ -13,11 +13,9 @@ Hi! I’m Gabriella, but you can call me Gabby. I’m a .NET-focused system deve
 
 - 🧠 My learning is rooted in Clean Code, Object-Oriented Programming, and Clean Architecture principles (CQRS, MediatR, layered separation), as well as understanding both functional and non-functional requirements through user stories and use cases.
 
-- 🚀 **I'm actively looking for an internship (LIA) in spring 2026 (March 9 – June 12)**, a chance to keep learning, collaborating, and bringing both my technical skills and creative background into real-world projects.
-
 -  🎨 Still a designer at heart – I enjoy blending form and function, and I often bring UX thinking into my development process.
 
-- 🌿 Outside of tech? You'll find me hiking, painting, crocheting, or hanging with my family and cats (or all of the above).
+- 🌿 Outside of tech? You'll find me knitting, crocheting, painting, or hanging with my family and cats (or all of the above).
 
 </p>
 
@@ -62,14 +60,7 @@ Hi! I’m Gabriella, but you can call me Gabby. I’m a .NET-focused system deve
 
 ### 📂 Featured Projects
 
-- **Fork & Spoon** – A recipe sharing app built with Clean Architecture, CQRS/MediatR, EF Core, and React.  
-  ⚠️ *Work in progress – features are being added continuously.*
-  - [Backend (ASP.NET Core Web API)](https://github.com/GabbyFerm/Fork-and-spoon)
-  - [Frontend (React + Vite)](https://github.com/GabbyFerm/Fork-and-spoon-FE)
-
-- **LoveAtFirstBite** – A lunch voting app created during a 4-week group project, using Clean Architecture and a React frontend.
-  - [Backend (ASP.NET Core Web API)](https://github.com/GabbyFerm/LoveAtFirstBite)
-  - [Frontend (React + TypeScript)](https://github.com/GabbyFerm/LoveAtFirstBiteFE)
+- Check out my pinned repositories below for my latest work! 👇
 
 ---
 
