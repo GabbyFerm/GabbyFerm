@@ -50,9 +50,12 @@ Hi! I'm Gabriella, but you can call me Gabby. I'm a .NET-focused system developm
   <br/>
 
   <!-- Design -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/affinitydesigner.svg" height="40" alt="Affinity Designer" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/adobeindesign.svg" height="40" alt="InDesign" />
 
 </div>
 
